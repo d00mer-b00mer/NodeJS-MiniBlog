@@ -1,2 +1,2 @@
-# webpage
- My personal webpage
+# Mini Blog
+ Mini Blog using Nodejs, express, MongoDB, and ejs.

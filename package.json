@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-miniblog",
+  "version": "1.0.0",
+  "description": "walkthrough tutorial for setting up a mini blog on an express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "author": "Jameson Blake Collins",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0"
+  }
+}
